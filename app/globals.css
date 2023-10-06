@@ -11,4 +11,6 @@
 body {
   color: rgb(var(--foreground-rgb));
   height: auto;
+  overflow-x: hidden;
 }
+
