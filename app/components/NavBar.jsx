@@ -2,7 +2,7 @@ import React from 'react'
 
  const NavBar = () => {
   return (
-    <div className="navbar p-3  rounded-xl shadow-md">
+    <div className="navbar p-3 rounded-xl shadow-md">
   <div className="flex-1 h-20">
     <a className="relative btn btn-ghost w-20 sm:w-96 h-full normal-case text-xl hover:bg-slate-100  ">
       <img className="sm:hidden flex absolute left-0  w-20" src="/images/logo/animeLogo-b-i.png" alt="Logo" />
