@@ -1,8 +1,8 @@
-import Button from "./components/Button";
-import NavBar from "./components/NavBar";
-import Carousel from "./components/Carousel";
-import Features from "./components/Features";
-import Footer from "./components/Footer";
+import Button from "./app/components/Button";
+import NavBar from "./app/components/NavBar";
+import Carousel from "./app/components/Carousel";
+import Features from "./app/components/Features";
+import Footer from "./app/components/Footer";
 
 export default function Home() {
   return (
